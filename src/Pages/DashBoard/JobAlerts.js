@@ -17,9 +17,6 @@ import Card from "@mui/material/Card";
 import CardMedia from "@mui/material/CardMedia";
 import CardContent from "@mui/material/CardContent";
 
-import AdministrationIcon from "../../assets/AdministrationIcon.svg";
-import CaseAdministrationIcon from "../../assets/CaseAdministrationIcon.svg";
-import CaseFusionIcon from "../../assets/CaseFusionIcon.svg";
 import AutoDataJobsIcon from "../../assets/AutoDataJobsIcon.svg";
 import SocialMediaJobsIcon from "../../assets/SocialMediaJobsIcon.svg";
 import LocateNowJobsIcon from "../../assets/LocateNowJobsIcon.svg";
