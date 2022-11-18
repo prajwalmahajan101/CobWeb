@@ -1,9 +1,13 @@
 import '../styles/App.css';
+import NavBar from "./NavBar";
+import DashBoard from '../Pages/DashBoard/DashBoard.';
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
+    <>
+        <NavBar />
+        <DashBoard />
+    </>
+
   );
 }
 
